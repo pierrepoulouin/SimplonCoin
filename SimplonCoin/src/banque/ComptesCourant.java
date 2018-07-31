@@ -1,5 +1,5 @@
 package banque;
 
-public class ComptesCourant extends Comptess {
+public class ComptesCourant extends Comptes {
 
 }
